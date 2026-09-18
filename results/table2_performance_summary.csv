@@ -1,0 +1,18 @@
+Metric,Value,gpu_available,n_runs
+CPU-PSO Mean,0.1370857403944567,False,10
+GPU-PSO Mean,0.1370857403944567,False,10
+GA Mean,0.1326372323775852,False,10
+CPU-PSO Std,0.003798374879781071,False,10
+GPU-PSO Std,0.003798374879781071,False,10
+GA Std,0.0030014674654654577,False,10
+CPU-PSO Time,0.8268886566162109,False,10
+GPU-PSO Time,0.7461660146713257,False,10
+GA Time,1.008343267440796,False,10
+CPU-PSO Time_per_eval_ms,0.16213503070906096,False,10
+GA Time_per_eval_ms,0.19771436616486193,False,10
+"Total_Fitness_Evaluations (all three, identical)",5100.0,False,10
+Speedup (PSO CPU/GPU),1.1081832197630206,False,10
+Fitness_paired_t_pvalue (CPU-PSO vs GPU-PSO),,False,10
+Time_paired_t_pvalue (CPU-PSO vs GPU-PSO),0.5119228020443104,False,10
+Fitness_paired_t_pvalue (CPU-PSO vs GA),0.03281188528295644,False,10
+Fitness_paired_t_pvalue (GPU-PSO vs GA),0.03281188528295644,False,10

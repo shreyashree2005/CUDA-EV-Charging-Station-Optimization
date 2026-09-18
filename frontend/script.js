@@ -1,0 +1,1 @@
+console.log("EV Charging Station Optimization frontend loaded successfully");
